@@ -16,7 +16,7 @@ Se plantea la pregunta de si es posible tener más de un tipo de inteligencia, p
 En este sentido, como se mencionó, la teoría ve la inteligencia más como un constructo social y no un concepto rígido, por lo cual propone que los test de coeficiente intelectual no son bastos para evaluar la inteligencia de una persona, estos deberían ser un test más abierto y no solo basado en los méritos educativos de un individuo.
 Como ejemplo de esto, se observa en personas que, a pesar de obtener excelentes calificaciones académicas, presentan problemas importantes para relacionarse con otras personas o para manejar otras facetas de su vida. Gardner y sus colaboradores podrían afirmar que Stephen Hawking no posee una mayor inteligencia que Leo Messi, sino que cada uno de ellos ha desarrollado un tipo de inteligencia diferente.
 Por otro lado, desde un punto de vista más científico , durante el trabajo con personas que sufrieron daño cerebral, Garden observo como, lo más relevante es la zona en la que el cerebro sufre una lesión, depende de la zona habría fortalezas y debilidades, pudiendo perder el habla, destreza musical o capacidad para orientarse, entre otras.
-Trabajando con los niños con talento, se observó un proceso muy similar en el que comentaba que algunos niños eran muy buenos para aprender idiomas, pero no para las matemáticas y otros que les era sencilla la ciencia, pero no podían analizar poesía, concluyendo que aún en personas que tienen capacidades cognitivas poco desarrolladas,y que se pensaría que no tienen suficientes habilidades o `inteligencia` suficiente, aún así, eran capaces de hacer cosas concebidas como  `inteligentes`, por ello, Howard piensa que en realidad la inteligencia no existe, y es creada como un concepto social únicamente,  para el podrían existir muchas inteligencias independientes.[1](##Referencias)
+Trabajando con los niños con talento, se observó un proceso muy similar en el que comentaba que algunos niños eran muy buenos para aprender idiomas, pero no para las matemáticas y otros que les era sencilla la ciencia, pero no podían analizar poesía, concluyendo que aún en personas que tienen capacidades cognitivas poco desarrolladas,y que se pensaría que no tienen suficientes habilidades o `inteligencia` suficiente, aún así, eran capaces de hacer cosas concebidas como  `inteligentes`, por ello, Howard piensa que en realidad la inteligencia no existe, y es creada como un concepto social únicamente,  para el podrían existir muchas inteligencias independientes.[1](##referencias)
 
 ### Tipos de inteligencia
 
@@ -53,7 +53,7 @@ Las personas con una inteligencia interpersonal desarrollada son sensibles a los
 #### 8. Inteligencia naturalista
 
 Según Gardner, la inteligencia naturalista permite detectar, diferenciar y categorizar los aspectos vinculados al entorno, como por ejemplo las especies animales y vegetales o fenómenos relacionados con el clima, la geografía o los fenómenos de la naturaleza.
-Es la competencia para percibir las relaciones que existen entre varias especies de animales y vegetales, la geografía, clima y fenómenos naturales.[2](##Referencias)
+Es la competencia para percibir las relaciones que existen entre varias especies de animales y vegetales, la geografía, clima y fenómenos naturales.[2](##referencias)
 
 ## Conclusión
 
@@ -62,8 +62,8 @@ De la misma manera, observamos como, Gardner pensaba que la inteligencia no est�
 
 ## Referencias
 
-[Regader, B. (2015, mayo 29). La Teoría de las Inteligencias Múltiples de Gardner. pymOrganization.https://psicologiaymente.com/inteligencia/teoria-inteligencias-multiples-gardner]( https://psicologiaymente.com/inteligencia/teoria-inteligencias-multiples-gardner/)
-[Equipo Marketing TokApp. (2022, abril 5). Teoría de las inteligencias múltiples de Howard Gardner. TokApp School. https://www.tokappschool.com/teoria-de-las-inteligencias-multiples-de-howard-gardner/]( https://www.tokappschool.com/teoria-de-las-inteligencias-multiples-de-howard-gardner/)
+1. [Regader, B. (2015, mayo 29). La Teoría de las Inteligencias Múltiples de Gardner. pymOrganization.https://psicologiaymente.com/inteligencia/teoria-inteligencias-multiples-gardner]( https://psicologiaymente.com/inteligencia/teoria-inteligencias-multiples-gardner/)
+2. [Equipo Marketing TokApp. (2022, abril 5). Teoría de las inteligencias múltiples de Howard Gardner. TokApp School. https://www.tokappschool.com/teoria-de-las-inteligencias-multiples-de-howard-gardner/]( https://www.tokappschool.com/teoria-de-las-inteligencias-multiples-de-howard-gardner/)
 
 
 
