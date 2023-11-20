@@ -1,13 +1,13 @@
 
 # Introducción a la inteligencia artificial
 
-# Introducción
+## Introducción
 Desde el comienzo de los tiempos, la inteligencia humana ha sido de gran importancia para los hombres, siempre estamos tratando de entender como funcionan nuestras ideas y pensamientos y si es posible elevar nuestra inteligencia, en base a cómo funciona nuestro cerebro y que tanto podemos hacer con esta inteligencia pero, desde hace algún tiempo hasta la fecha, se comenzó a pensar en la posibilidad de que un agente externo, es decir, un agente computacional piense por si mismo o tenga esta ´Inteligencia´, para resolver algunas tareas específicas o de síntesis y automatización de tareas, todo esto, simulando como funcionamos nosotros los humanos.
 Entonces, como se mencionó, la IA pretende crear un agente que resuelva tareas, según los distintos conceptos que se tienen, algunos dicen que puede ser a base de razonamiento, es decir, cálculos matemáticos e ingeniería, o imitando el funcionamiento humano, que trabaja como una ciencia empírica a prueba y error.
 
-## Comportamiento humano
+### Comportamiento humano
 
-### Prueba de Turin
+#### Prueba de Turin
 
 ´La Prueba de Turing´, propuesta por Alan Turing (1950), propone una prueba más fácil que hacer una lista de cualidades a tachar para saber si un agente es inteligente o no, esta prueba se basa en una serie de preguntas o una conversación entre un computador y un humano, la prueba se basa en que el humano no pueda distinguir si está hablando con un humano o con un computador, como es en realidad.
 Hoy en día, sabemos toda la tecnología que se requiere para realizar esta prueba:
@@ -21,18 +21,18 @@ Hoy en día, sabemos toda la tecnología que se requiere para realizar esta prue
 
 
 
-###  Enfoque moderno cognitivo 
+####  Enfoque moderno cognitivo 
 
 Para poder hacer que un computador funcione como humano, se requiere saber primero como piensan los humanos.
 Crear una teoría en base a introspección o experimentos/pruebas psicológicas, para aplicar esta teoría en el funcionamiento del agente.
 En el campo interdisciplinario de la ´ciencia cognitiva´ convergen modelos computacionales de IA y técnicas experimentales de psicología intentando elaborar teorías precisas y verificables sobre el funcionamiento de la mente humana.
 
-### El enfoque de las «leyes del pensamiento
+#### El enfoque de las «leyes del pensamiento
 
 El filosofo Aristóteles, propuso que hay una manera correcta de pensar, es decir, que todo pensamiento está dado en base a los hechos lógicos, sigue leyes y reglas, no es casualidad, sino que todo está dado a base de acciones lógicas.
 En base a este pensamiento, se desarrollaron métodos lógicos con notación lógica para resolver problemas, pero, esto tiene algunos problemas, no todas las entradas pueden ser fácilmente cambiadas a esta notación para ser resueltas y, a veces al llevar a la practica no es lo mismo que en el entrenamiento.
 
-### El enfoque del agente racional
+#### El enfoque del agente racional
 
 Un agente racional se distingue de los demás programas porque, además de razonar debe tener otras características, como poder tomar decisiones autónomas y acoplarse al entorno, la definición formal dice que el agente racional es aquel que alcanza el mejor resultado o el mejor  resultado posible.
 Se dice que esto puede ser logrado a partir del ´racionalismo´, por medio de ´inferencias´, pero estas no lo son todo, algunos actos del pensamiento humano son solo reflejos aprendidos por la experiencia. Es por ello, que es más importante dotar al agente con buenas herramientas para que “vea” o analice su entorno de la mejor manera posible y, los problemas que no se puedan resolver con inferencia poder buscar o aprender del entorno la mejor manera de resolver el problema, este enfoque se basa más en diseñar bien al agente.
@@ -65,7 +65,7 @@ Kenneth Craik (1943) en su obra The Nature of Explanation establece tres element
 * La representación se debe manipular mediante procesos cognitivos para así generar nuevas representaciones internas.
 * Éstas, a su vez, se traducirán de nuevo en acciones.
 
-## Ingeniería computacional 
+### Ingeniería computacional 
 
 Para la creación de la IA se requiere inteligencia y un artefacto, que estarán dados por el hardware, el cual es cada vez más eficiente y se le van agregando más cosas para que funcione más rápido y mejor, y el software.
 La IA también tiene una deuda con la parte software de la informática que ha proporcionado los sistemas operativos, los lenguajes de programación, y las herramientas necesarias para escribir programas modernos (y artículos sobre ellos). Sin embargo, en esta área la deuda se ha saldado: la investigación en IA ha generado numerosas ideas novedosas de las que se ha beneficiado la informática en general, como por ejemplo el tiempo compartido, los intérpretes imperativos, los computadores personales con interfaces gráficas y ratones, entornos de desarrollo rápido, listas enlazadas, administración automática de memoria, y conceptos claves de la programación simbólica, funcional, dinámica y orientada a objetos.
@@ -80,27 +80,30 @@ Al igual que el Teórico Lógico y el Demostrador de Teoremas de Geometría, McC
 El programa SAINT de James Slagle (1963a) fue capaz de resolver problemas de integración de cálculo en forma cerrada, habituales en los primeros cursos de licenciatura. El programa ANALOGY de Tom Evans (1968) resolvía problemas de analogía geométrica que se aplicaban en las pruebas de medición de inteligencia. El programa STUDENT de Daniel Bobrow (1967) podía resolver problemas de álgebra del tipo: 
  ´Si el número de clientes de Tom es dos veces el cuadrado del 20 por ciento de la cantidad de anuncios que realiza, y éstos ascienden a 45, ¿cuántos clientes tiene Tom? ´
 
-## Una dosis de realidad
+### Una dosis de realidad
 
 Por el éxito en problemas sencillos que tuvieron los primeros agentes, se tenía mucha fe en el futuro de la Inteligencia Artificial, al grado de pensarse que en el lapso de 10 años una maquina sería capaz de ganar un juego de ajedrez y de demostrar un teorema matemático. Esto solo se cumplió en 40 años en vez de 10 como se tenía planeado, ya que, con el paso del tiempo se dieron cuenta que, los primeros agentes tuvieron éxito en problemas pequeños de una sola índole y comenzaron a fallar en problemas más grandes y variados.
 Se dieron cuenta de que las maquinas tenían mucho sesgo cognitivo aún cuando, por ejemplo, se intentó hacer la traducción automática de un idioma a otro, pero, esto no era solo el remplazo de palabras de un idioma por las del otro, sino que, la maquina tenía que tener conocimiento sobre el contexto de la frase y otras cosas, y arrojaba una traducción vaga y sin sentido.
 El segundo problema fue que muchos de los problemas que se estaban intentando resolver mediante la IA eran intratables.
 
-## Sistemas basados en conocimiento
+### Sistemas basados en conocimiento
 
 El cuadro que dibujaba la resolución de problemas durante la primera década de la investigación en la IA estaba centrado en el desarrollo de mecanismos de búsqueda de propósito general, en los que se entrelazaban elementos de razonamiento básicos para encontrar así soluciones completas. A estos procedimientos se les ha denominado ´métodos débiles´, debido a que no tratan problemas más amplios o más complejos. La alternativa a los métodos débiles es el uso de conocimiento específico del dominio que facilita el desarrollo de etapas de razonamiento más largas, pudiéndose así resolver casos recurrentes en dominios de conocimiento restringido, a este tipo de sistemas se les llamó ´sistemas expertos´.
 Estos programas se usaron para un sinfín de cosas, como el diagnostico médico, pero también se comenzó a ahondar en los programas que procesaban el lenguaje natural, se desarrollaron varios lenguajes que con distinto razonamiento.
 Algunos basados en la lógica, por ejemplo el lenguaje Prolog gozó de mucha aceptación en Europa, aceptación que en Estados Unidos fue para la familia del PLANNER. Otros, siguiendo la noción de ´marcos´ de Minsky (1975), se decidieron por un enfoque más estructurado, al recopilar información sobre objetos concretos y tipos de eventos, organizando estos tipos en grandes jerarquías taxonómicas, similares a las biológicas.
 
-# Agentes racionales
+## Agentes racionales
 
 Como ya se había planteado, un ´agente´ es cualquier cosa que percibe su entorno por medio de sensores y actuadores, la parte de ´racional´ esta dada por el hecho de que encuentra la mejor solución posible a un problema dado.
 El término ´percepción´ se utiliza en este contexto para indicar que el agente puede recibir entradas en cualquier instante. La secuencia de percepciones de un agente refleja el historial completo de lo que el agente ha recibido. En general, un agente tomará una decisión en un momento dado dependiendo de la ´secuencia completa de percepciones´ hasta ese instante. Si se puede especificar qué decisión tomará un agente para cada una de las posibles secuencias de percepciones, entonces se habrá explicado más o menos todo lo que se puede decir de un agente.
 En otras palabras, la secuencia de percepción se refiere a los pasos o las posibles acciones a seguir para un agente en un caso específico.
 
-## Medida de rendimiento.
+### Medida de rendimiento.
 
 La ´funcion del agente´ es, en pocas palabras, la acción que este deberá hacer con ciertas condiciones específicas, por ejemplo, en el caso de una aspiradora que puede moverse, aspirar y no hacer nada, tendrá la condición de limpiar si el cuadrante en el que está se encuentra sucio, de lo contrario, moverse en el orden de una secuencia de percepción dada.
 La ´medida de rendimiento´ tiene que ver con el buen comportamiento del agente, es decir, que tan eficiente es.
 Cuando se sitúa un agente en un medio, éste genera una secuencia de acciones de acuerdo con las percepciones que recibe. Esta secuencia de acciones hace que su hábitat pase por una secuencia de estados. Si la secuencia es la deseada, entonces el agente habrá actuado correctamente. Obviamente, no hay una única medida adecuada para todos los agentes. 
 Con el mismo ejemplo de la aspiradora, por ejemplo, si la medida de rendimiento fuera la cantidad de basura recogida en un periodo de tiempo, el agente podría tirar y recoger la basura hasta que se cumpla el plazo, de esta manera estaría satisfaciendo la medida de rendimiento, que era recoger más basura, pero esto no sería correcto. En cambio, si la medida de rendimiento fuera tener el suelo limpio, el agente podría ganar puntos por limpiar una cuadricula en cierto tiempo y tal vez, penalización por gastar más electricidad o hacer más ruido.
+
+
+## Inteligencia artificial (Documental)
