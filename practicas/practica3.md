@@ -64,135 +64,154 @@ Cuando un alfíl llega a la meta, este ya no se mueve, ya no regresa.
 *Como se enumeran, los alfiles negros ahora serán representados como N1,N2,N3 Y N4, respectivamente y los blancos como B1, B2, B3 Y B4 .
 
 |  N1  |  N2  |  N3  |  N4  |
+|-----|-----|-----|-----|
 |  -   |  -   |  -   |  -   |
 |  -   |  -   |  -   |  -   |
 |  -   |  -   |  -   |  -   |
 |  B4  |  B3  |  B2  |  B1  |
 
 Y sus movimientos se verán de la siguiente manera:
-1
+
+
+1.
 
 |  -   |  N2  |  N3  |  N4  |
+|-----|-----|-----|-----|
 |  -   |  -   |  -   |  -   |
 |  -   |  -   |  -   |  -   |
 |  -   |  -   |  -   |  N1  |
 |  B4  |  B3  |  B2  |  B1  |
 
-2
+2.
 
 |  -   |  N2  |  N3  |  N4  |
+|-----|-----|-----|-----|
 |  B1  |  -   |  -   |  -   |
 |  -   |  -   |  -   |  -   |
 |  -   |  -   |  -   |  N1  |
 |  B4  |  B3  |  B2  |  -   |
 
-3
+3.
 
 |  -   |  -   |  N3  |  N4  |
+|-----|-----|-----|-----|
 |  B1  |  -   |  -   |  -   |
 |  -   |  -   |  -   |  N2  |
 |  -   |  -   |  -   |  N1  |
 |  B4  |  B3  |  B2  |  -   |
 
-4
+4.
 
 |  -   |  -   |  N3  |  N4  |
+|-----|-----|-----|-----|
 |  B1  |  -   |  -   |  -   |
 |  B2  |  -   |  -   |  N2  |
 |  -   |  -   |  -   |  N1  |
 |  B4  |  B3  |  -   |  -   |
 
-5
+5. 
 
 |  -   |  -   |  -   |  N4  |
+|-----|-----|-----|-----|
 |  B1  |  -   |  -   |  N3  |
 |  B2  |  -   |  -   |  N2  |
 |  -   |  -   |  -   |  N1  |
 |  B4  |  B3  |  -   |  -   |
 
-6
+6. 
 
 |  -   |  -   |  -   |  N4  |
+|-----|-----|-----|-----|
 |  B1  |  -   |  -   |  N3  |
 |  B2  |  -   |  -   |  N2  |
 |  B3  |  -   |  -   |  N1  |
 |  B4  |  -   |  -   |  -   |
 
-7
+7.
 
 |  -   |  -   |  -   |  -   |
+|-----|-----|-----|-----|
 |  B1  |  -   |  -   |  N3  |
 |  B2  |  N4  |  -   |  N2  |
 |  B3  |  -   |  -   |  N1  |
 |  B4  |  -   |  -   |  -   |
 
-8
+8. 
 
 |  -   |  -   |  -   |  -   |
+|-----|-----|-----|-----|
 |  B1  |  -   |  -   |  N3  |
 |  B2  |  N4  |  B4  |  N2  |
 |  B3  |  -   |  -   |  N1  |
 |  -   |  -   |  -   |  -   |
 
-9
+9.
 
 |  -   |  -   |  -   |  -   |
+|-----|-----|-----|-----|
 |  B1  |  -   |  -   |  N3  |
 |  B2  |  N4  |  B4  |  N2  |
 |  B3  |  -   |  -   |  -   |
 |  -   |  -   |  N1  |  -   |
 
-10
+10.
 
 |  -   |  B1  |  -   |  -   |
+|-----|-----|-----|-----|
 |  -   |  -   |  -   |  N3  |
 |  B2  |  N4  |  B4  |  N2  |
 |  B3  |  -   |  -   |  -   |
 |  -   |  -   |  N1  |  -   |
 
-11
+11.
 
 |  -   |  B1  |  -   |  -   |
+|-----|-----|-----|-----|
 |  -   |  -   |  -   |  N3  |
 |  B2  |  N4  |  B4  |  -   |
 |  B3  |  -   |  -   |  -   |
 |  -   |  N2  |  N1  |  -   |
 
-12
+12.
 
 |  -   |  B1  |  B2  |  -   |
+|-----|-----|-----|-----|
 |  -   |  -   |  -   |  N3  |
 |  -   |  N4  |  B4  |  -   |
 |  B3  |  -   |  -   |  -   |
 |  -   |  N2  |  N1  |  -   |
 
-*13 Notemos que en este caso el número que sigue de moverse es el negro número 3, pero este tiene todos los caminos bloqueados, por lo que el contador de orden de movimientos pasa al siguiente elemento, el 4, esto aplicará para ambos colores, segpun las reglas que establecimos, aunque el siguiente movimiento le despeje el camino al blanco número 3.
+13. En este caso, notemos como el siguiente eemento al qu ele toca moverse está bloqueado `N3`, no tiene ninguna dirección a donde ir, por lo que se moverá el siguiente elemento, el `N4` y, aunque al mover a `N4` se despeje el camino para B3, en la siguiente iteración se moverá `B4`, ya que así se establecieron las reglas para evitar bloqueos.
 
 |  -   |  B1  |  B2  |  -   |
+|-----|-----|-----|-----|
 |  -   |  -   |  -   |  N3  |
 |  -   |  -   |  B4  |  -   |
 |  B3  |  -   |  -   |  -   |
 |  -   |  N2  |  N1  |  N4  |
 
-14
+14.
 
 |  B4  |  B1  |  B2  |  -   |
+|-----|-----|-----|-----|
 |  -   |  -   |  -   |  N3  |
 |  -   |  -   |  -   |  -   |
 |  B3  |  -   |  -   |  -   |
 |  -   |  N2  |  N1  |  N4  |
 
-15
+15.
 
 |  B4  |  B1  |  B2  |  -   |
+|-----|-----|-----|-----|
 |  -   |  -   |  -   |  -   |
 |  -   |  -   |  -   |  -   |
 |  B3  |  -   |  -   |  -   |
 |  N3  |  N2  |  N1  |  N4  |
 
-16
+16. 
 
 |  B4  |  B1  |  B2  |  B3  |
+|-----|-----|-----|-----|
 |  -   |  -   |  -   |  -   |
 |  -   |  -   |  -   |  -   |
 |  -   |  -   |  -   |  -   |
