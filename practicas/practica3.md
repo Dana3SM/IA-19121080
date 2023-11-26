@@ -70,7 +70,7 @@ Cuando un alfíl llega a la meta, este ya no se mueve, ya no regresa.
 |  B4  |  B3  |  B2  |  B1  |
 
 Y sus movimientos se verán de la siguiente manera:
-
+1
 
 |  -   |  N2  |  N3  |  N4  |
 |  -   |  -   |  -   |  -   |
@@ -78,6 +78,7 @@ Y sus movimientos se verán de la siguiente manera:
 |  -   |  -   |  -   |  N1  |
 |  B4  |  B3  |  B2  |  B1  |
 
+2
 
 |  -   |  N2  |  N3  |  N4  |
 |  B1  |  -   |  -   |  -   |
@@ -85,6 +86,7 @@ Y sus movimientos se verán de la siguiente manera:
 |  -   |  -   |  -   |  N1  |
 |  B4  |  B3  |  B2  |  -   |
 
+3
 
 |  -   |  -   |  N3  |  N4  |
 |  B1  |  -   |  -   |  -   |
@@ -92,6 +94,7 @@ Y sus movimientos se verán de la siguiente manera:
 |  -   |  -   |  -   |  N1  |
 |  B4  |  B3  |  B2  |  -   |
 
+4
 
 |  -   |  -   |  N3  |  N4  |
 |  B1  |  -   |  -   |  -   |
@@ -99,6 +102,7 @@ Y sus movimientos se verán de la siguiente manera:
 |  -   |  -   |  -   |  N1  |
 |  B4  |  B3  |  -   |  -   |
 
+5
 
 |  -   |  -   |  -   |  N4  |
 |  B1  |  -   |  -   |  N3  |
@@ -106,6 +110,7 @@ Y sus movimientos se verán de la siguiente manera:
 |  -   |  -   |  -   |  N1  |
 |  B4  |  B3  |  -   |  -   |
 
+6
 
 |  -   |  -   |  -   |  N4  |
 |  B1  |  -   |  -   |  N3  |
@@ -113,6 +118,7 @@ Y sus movimientos se verán de la siguiente manera:
 |  B3  |  -   |  -   |  N1  |
 |  B4  |  -   |  -   |  -   |
 
+7
 
 |  -   |  -   |  -   |  -   |
 |  B1  |  -   |  -   |  N3  |
@@ -120,6 +126,7 @@ Y sus movimientos se verán de la siguiente manera:
 |  B3  |  -   |  -   |  N1  |
 |  B4  |  -   |  -   |  -   |
 
+8
 
 |  -   |  -   |  -   |  -   |
 |  B1  |  -   |  -   |  N3  |
@@ -127,6 +134,7 @@ Y sus movimientos se verán de la siguiente manera:
 |  B3  |  -   |  -   |  N1  |
 |  -   |  -   |  -   |  -   |
 
+9
 
 |  -   |  -   |  -   |  -   |
 |  B1  |  -   |  -   |  N3  |
@@ -134,12 +142,15 @@ Y sus movimientos se verán de la siguiente manera:
 |  B3  |  -   |  -   |  -   |
 |  -   |  -   |  N1  |  -   |
 
+10
+
 |  -   |  B1  |  -   |  -   |
 |  -   |  -   |  -   |  N3  |
 |  B2  |  N4  |  B4  |  N2  |
 |  B3  |  -   |  -   |  -   |
 |  -   |  -   |  N1  |  -   |
 
+11
 
 |  -   |  B1  |  -   |  -   |
 |  -   |  -   |  -   |  N3  |
@@ -147,6 +158,7 @@ Y sus movimientos se verán de la siguiente manera:
 |  B3  |  -   |  -   |  -   |
 |  -   |  N2  |  N1  |  -   |
 
+12
 
 |  -   |  B1  |  B2  |  -   |
 |  -   |  -   |  -   |  N3  |
@@ -154,7 +166,7 @@ Y sus movimientos se verán de la siguiente manera:
 |  B3  |  -   |  -   |  -   |
 |  -   |  N2  |  N1  |  -   |
 
-* Notemos que en este caso el número que sigue de moverse es el negro número 3, pero este tiene todos los caminos bloqueados, por lo que el contador de orden de movimientos pasa al siguiente elemento, el 4, esto aplicará para ambos colores, segpun las reglas que establecimos, aunque el siguiente movimiento le despeje el camino al blanco número 3.
+*13 Notemos que en este caso el número que sigue de moverse es el negro número 3, pero este tiene todos los caminos bloqueados, por lo que el contador de orden de movimientos pasa al siguiente elemento, el 4, esto aplicará para ambos colores, segpun las reglas que establecimos, aunque el siguiente movimiento le despeje el camino al blanco número 3.
 
 |  -   |  B1  |  B2  |  -   |
 |  -   |  -   |  -   |  N3  |
@@ -162,12 +174,15 @@ Y sus movimientos se verán de la siguiente manera:
 |  B3  |  -   |  -   |  -   |
 |  -   |  N2  |  N1  |  N4  |
 
+14
+
 |  B4  |  B1  |  B2  |  -   |
 |  -   |  -   |  -   |  N3  |
 |  -   |  -   |  -   |  -   |
 |  B3  |  -   |  -   |  -   |
 |  -   |  N2  |  N1  |  N4  |
 
+15
 
 |  B4  |  B1  |  B2  |  -   |
 |  -   |  -   |  -   |  -   |
@@ -175,6 +190,7 @@ Y sus movimientos se verán de la siguiente manera:
 |  B3  |  -   |  -   |  -   |
 |  N3  |  N2  |  N1  |  N4  |
 
+16
 
 |  B4  |  B1  |  B2  |  B3  |
 |  -   |  -   |  -   |  -   |
@@ -182,11 +198,9 @@ Y sus movimientos se verán de la siguiente manera:
 |  -   |  -   |  -   |  -   |
 |  N3  |  N2  |  N1  |  N4  |
 
-
 ## Conclusión
 
 Como pudimos observar, el número mpinimo de movimientos según esta solución, son 8 por lado, dando un total de 16 movimientos.
 Establecer algunas reglas como el movimiento igual para ambas partes, ayuda a establecer una estrategia más segura basada en `lógica` en vez de `adivinación`, para evitar bucles o gastar demasiados movimientos  de manera inecesaria.
 La resolución del problema de intercambio de alfiles en el ajedrez no solo requiere movimientos individuales cuidadosamente planificados, sino también una coordinación estratégica entre los alfiles de cada color. La implementación de movimientos espejo, la preferencia por direcciones más beneficiosas y la adaptabilidad frente a obstáculos son elementos clave para lograr el intercambio de manera eficiente y sin conflictos.
 Esta creación de una estrategia hará que, diseñar un agente sea una tarea más fácil que darle una lista de pasos enorme, en vez de solo algunas reglas y además, hará que el agente sea fácilmente escalable y ajustable a otros problemas.
-
