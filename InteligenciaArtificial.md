@@ -3,7 +3,7 @@
 3. [Introducción a la Inteligencia Artificial: Introspección](practicas/practica3.md)
 4. [Introducción a la Inteligencia Artificial: Introspección](practicas/Practica4.md)
 5. [Introducción a la Inteligencia Artificial: Introspección](practicas/Practica5.md)
-6. [Introducción a la Inteligencia Artificial: El proceso de razonamiento según la lógica]()
+6. [Introducción a la Inteligencia Artificial: El proceso de razonamiento según la lógica](practicas/practica6.md)
 7. [Introducción a la Inteligencia Artificial: El papel de la heurística]()
 8. [Reglas y Búsquedas : Espacio de Estados](practicas/practica8.md)
 9. [Generación de Dataset]()
