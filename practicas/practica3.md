@@ -61,7 +61,7 @@ Cuando un alfíl llega a la meta, este ya no se mueve, ya no regresa.
 
 ### Secuencia de percepción.
 
-*Como se enumeran, los alfiles negros ahora serán representados como N1,N2,N3 Y N4, respectivamente y los blancos como B1, B2, B3 Y B4 .
+* Como se enumeran, los alfiles negros ahora serán representados como N1,N2,N3 Y N4, respectivamente y los blancos como B1, B2, B3 Y B4 .
 
 |  N1  |  N2  |  N3  |  N4  |
 |-----|-----|-----|-----|
