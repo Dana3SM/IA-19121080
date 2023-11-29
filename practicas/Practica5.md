@@ -94,6 +94,4 @@ Como vimos, la segmentación de color es un proceso muy util para la visión com
 
 # Referencias
 
-[Python, R. (2018, septiembre 26). Image segmentation using color spaces in OpenCV + Python. Realpython.com; Real Python. https://realpython.com/python-opencv-color-spaces/
-
-](https://realpython.com/python-opencv-color-spaces/)
+[Python, R. (2018, septiembre 26). Image segmentation using color spaces in OpenCV + Python. Realpython.com; Real Python. https://realpython.com/python-opencv-color-spaces/](https://realpython.com/python-opencv-color-spaces/)
