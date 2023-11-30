@@ -106,4 +106,23 @@ Cuando se sitúa un agente en un medio, éste genera una secuencia de acciones d
 Con el mismo ejemplo de la aspiradora, por ejemplo, si la medida de rendimiento fuera la cantidad de basura recogida en un periodo de tiempo, el agente podría tirar y recoger la basura hasta que se cumpla el plazo, de esta manera estaría satisfaciendo la medida de rendimiento, que era recoger más basura, pero esto no sería correcto. En cambio, si la medida de rendimiento fuera tener el suelo limpio, el agente podría ganar puntos por limpiar una cuadricula en cierto tiempo y tal vez, penalización por gastar más electricidad o hacer más ruido.
 
 
-## Inteligencia artificial (Documental)
+## Inteligencia artificial- IBM
+
+La inteligencia artificial (IA) se ha convertido en una de las fuerzas motrices más impactantes en la evolución de la tecnología y la sociedad contemporánea. El documental de Discovery Latinoamérica, titulado "Inteligencia Artificial - IBM," nos sumerge en el fascinante mundo de la IA, destacando la colaboración entre la icónica empresa IBM y la innovación en este campo de estudio.
+
+Desde sus inicios, IBM ha sido pionera en el desarrollo de tecnologías avanzadas, y este documental nos lleva a un viaje cautivador que explora cómo la inteligencia artificial está dando forma al futuro de la informática y la toma de decisiones empresariales. La narrativa del documental está hábilmente tejida con una combinación de entrevistas a expertos en el campo y escenas detrás de cámaras, ofreciendo una visión integral de los avances y desafíos de la IA.
+
+El documental comienza arrojando luz sobre los fundamentos de la inteligencia artificial, explicando conceptos clave como el aprendizaje automático, la visión por computadora y el procesamiento del lenguaje natural.
+
+* Aprendizaje Automático: Se explora cómo las máquinas pueden aprender de manera autónoma a partir de datos, identificando patrones y tomando decisiones sin intervención humana. Esto puede abordarse mediante algoritmos de aprendizaje supervisado o no supervisado, permitiendo a las máquinas mejorar su rendimiento con la experiencia.
+
+* Visión por Computadora: El documental se sumerge en cómo las máquinas pueden interpretar y comprender visualmente el mundo que las rodea. La visión por computadora implica capacitar a las máquinas para analizar imágenes o videos, identificando objetos, personas y contextos visuales.
+
+* Procesamiento del Lenguaje Natural (PLN): Se explora cómo las máquinas pueden entender, interpretar y generar lenguaje humano de manera efectiva. El PLN es esencial para que las máquinas comprendan instrucciones habladas o escritas, lo que abre la puerta a aplicaciones como asistentes virtuales y traducción automática.
+
+Con estos conceptos claros, el documental destaca los esfuerzos de IBM para aplicar estos conocimientos en soluciones prácticas. Se muestra cómo estas tecnologías se integran en la vida cotidiana, desde el ámbito empresarial hasta el impacto en la sociedad en general. Este enfoque práctico proporciona a la audiencia una visión más profunda de cómo la inteligencia artificial no solo es una idea futurista, sino una realidad que está transformando activamente la forma en que vivimos y trabajamos.
+
+Uno de los puntos culminantes del documental es la presentación de proyectos específicos de IA desarrollados por IBM. Desde sistemas de asesoramiento empresarial hasta aplicaciones en el campo de la medicina, el documental ilustra cómo la inteligencia artificial está transformando industrias enteras. Además, se destacan casos de estudio en los que la IA de IBM ha logrado resultados sorprendentes, superando las capacidades humanas en áreas como el análisis de datos a gran escala y la toma de decisiones estratégicas.
+La ética y la responsabilidad también son temas prominentes en el documental. Se abordan preguntas cruciales sobre el impacto social y ético de la inteligencia artificial, examinando la necesidad de establecer límites y salvaguardias para garantizar que la tecnología beneficie a la humanidad de manera positiva.
+
+El documental no solo se sumerge en la tecnología misma, sino que también destaca a los individuos detrás de estos avances. Entrevistas con científicos, ingenieros y líderes de IBM proporcionan una visión única de las mentes creativas que impulsan la revolución de la inteligencia artificial.

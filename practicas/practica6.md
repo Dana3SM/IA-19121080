@@ -10,17 +10,19 @@ El interés de este problema radica en encontrar el número del último soldado 
 El proceso de solución se basa en identificar las secuencias que se van formando con los números para poder saber que soldado quedará vivo al final.
 Las secuencias van eliminando uno de cada espacio, y a partir de la segunda iteración se elimina uno del princio, quedando diferentes secuencias, pero para poder entender el problema se analizan primero el resultado del mismo problema con diferente número de soldados, teniendo una lista de valores.
 
-| 1 | 1 |
-| 2 | 1 |
-| 3 | 3 |
-| 4 | 1 |
-| 5 | 3 |
-| 6 | 5 |
-| 7 | 7 |
-| 8 | 1 |
-| 9 | 3 |
-| 10| 5 |
-| 11| 7 |
+| N°  | Vencedor|
+|-----|---------|
+| 1   |    1    |
+| 2   |    1    |
+| 3   |    3    |
+| 4   |    1    |
+| 5   |    3    |
+| 6   |    5    |
+| 7   |    7    |
+| 8   |    1    |
+| 9   |    3    |
+| 10  |    5    |
+| 11  |    7    |
 
 En tonces se tiene que, los números resultado parecen tener una secuencia, basada en multiplos o potencias de 2.
 En el caso de Josefo los 41 individuos 41 = 2^5 + 9,  por tanto k = 9, eliminamos individuos hasta que queden 32. En este caso habrá que eliminar los elementos que ocupen los lugares pares: 2, 4, 6, 8, 10, 12, 14, 16, 18,  entonces quedan 32 = 2^5  individuos y el primero de este nuevo círculo ocupa el lugar 19 (19 = 2·9 +1) y esa será la posición que eligió Josefo para librarse de la muerte. 
